@@ -28,7 +28,7 @@ There is a good github tutorial: [https://rogerdudler.github.io/git-guide/index.
 
 Joyful, happy, sad, angry, disgusting, painful, bored... we experience these emotions all the time, and these experience keep changing every moment. How can we "define" emotions? How can we "study" emotions? What are the "bodily factors" that influence emotions? How we "measure" bodily response of emotions? What are the "brain representations" of emotions? Are emotions same with affect or feelings? How can we model the "dynamics" of emotions? What are the underlying problems in emotional disorders, like anxiety and depression? etc. There are so many interesting questions about emotions. 
 
-In this class, we will learn 1) methodologies for affective neuroscience research, and 2) some key topics of affective neuroscience. 3) We will also invite some researchers to hear more about ongoing studies on pain and emotions, and 4) have some debate sessions on controversial topics. 
+In this class, we will learn 1) key topics of affective neuroscience. 2) We will also invite some researchers to hear more about ongoing studies on pain and emotions, and 3) have some debate sessions on controversial topics. 
 
 ## Course format and expectations
 
@@ -86,11 +86,11 @@ Playlists:
 [Stanford Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
 
 Lectures:
-[Willpower: Self-Control, Decision Fatigue, and Energy Depletion](https://www.youtube.com/watch?v=KfnUicHDNM8) by Roy Baumeister
-[Emotion regulation](https://www.youtube.com/watch?v=_6p8aq4zU8Y) by James Gross
-[Motivation](https://www.youtube.com/watch?v=mTW1qndYwX8) by James Gross
-[What makes us human?](https://www.youtube.com/watch?v=FwlDLe6O7NE) by Roy Baumeister
-
+[Willpower: Self-Control, Decision Fatigue, and Energy Depletion](https://www.youtube.com/watch?v=KfnUicHDNM8) by Roy Baumeister,
+[Emotion regulation](https://www.youtube.com/watch?v=_6p8aq4zU8Y) by James Gross,
+[Motivation](https://www.youtube.com/watch?v=mTW1qndYwX8) by James Gross,
+[What makes us human?](https://www.youtube.com/watch?v=FwlDLe6O7NE) by Roy Baumeister,
+[Putting Emotion into the Science of Consciousness](https://www.youtube.com/watch?v=b6Ab34llQYc) by Joseph LeDoux, [Neural Self](https://www.youtube.com/watch?v=OvwM6EINGZA) by Antonio Damasio, [Happiness: What Your Mother Didn’t Tell You](https://www.youtube.com/watch?v=7VuKfSdZWlg) by Dan Gilbert, [Social Brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) by Ralph Adolphs; [The Social Brain and the Workplace](https://www.youtube.com/watch?v=h7UR9JwQEYk) by Matthew Lieberman; Richard Davidson
 
 The Psychology Podcasts:
 Roy Baumeister I: [Identity, the Self, and the Meaning of Life](https://www.youtube.com/watch?v=exqibfFn0c4)
