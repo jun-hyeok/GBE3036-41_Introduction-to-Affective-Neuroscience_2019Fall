@@ -64,11 +64,10 @@ Week 8 (10/24) | Mid-term |  - | - | -
 Week 9 (10/31)* | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | TBA
 Week 10 (11/7) | Self and self-regulation | | BSP Ch3
 Week 11 (11/14) | Emotion regulation, embodiment | |
-Week 12 (11/14) | Anxiety | |
-Week 13 (11/21) | Depression | |
-Week 14 (12/5) | Positive emotions | |
-Week 15 (12/12) | Empathy | |
-Week 16 (12/19) | 기말고사 |
+Week 12 (11/21) | Anxiety & Depression | |
+Week 13 (12/5) | Positive emotions | |
+Week 14 (12/12) | Empathy | |
+Week 15 (12/19) | 기말고사 |
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
 
