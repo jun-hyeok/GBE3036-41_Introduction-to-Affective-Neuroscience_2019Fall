@@ -41,7 +41,7 @@ This class will use the absolute evaluation, which does not mean that you will g
 1. Attendance (30%): again, attendance is important
 2. Term project (20%): we will do a term project, which will start around mid-term season and finish before the final exam
 3. Final exam (20%): there will be a final exam (multiple choice)
-4. Class preparation (15%): you need to watch lectures (or read an assigned article) before coming to the class
+4. Class preparation (15%): you need to watch lectures (or read an assigned article) before coming to the class and **submit one or two discussion questions** 
 5. Discussion participation (15%): actively participate in class discussion
 
 
