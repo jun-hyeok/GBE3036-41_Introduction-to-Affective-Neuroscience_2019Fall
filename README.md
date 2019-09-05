@@ -71,12 +71,15 @@ Week 15 (12/19) | 기말고사 |
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
 
-## Books (not required)
+## Books
 
 Baumeister's Social Psychology (BSP)
+
 Panksepp Affective Neuroscience (PAN)
-Barret how emotions are made
-Adolphs the neuroscience of emotion
+
+Lisa Feldman Barrett "How Emotions Are Made"
+
+Ralph Adolphs "The neuroscience of emotion"
 
 ## Some extra lectures
 
