@@ -39,10 +39,19 @@ This class uses the flipped classroom format, which means that I will assign vid
 This class will use the absolute evaluation, which does not mean that you will get a good grade no matter what. Rather, it means that your learning will be evaluated strictly based on the following standard:
 
 1. Attendance (30%): again, attendance is important
-2. Term project (20%): we will do a term project, which will start around mid-term season and finish before the final exam
-3. Final exam (20%): there will be a final exam (multiple choice)
+2. Term project (15%): we will do a term project, which will start around mid-term season and finish before the final exam
+3. Debate (10%): we will do some debate sessions. Each individual will participate in the debate once. 
+3. Final exam (15%): there will be a final exam (multiple choice)
 4. Class preparation (15%): you need to watch lectures (or read an assigned article) before coming to the class and **submit one or two discussion questions** 
 5. Discussion participation (15%): actively participate in class discussion
+
+Grade criteria: 
+A+: >95,
+A : >90,
+B+: >85,
+B : >80,
+C+: >75,
+C : >70
 
 
 ## Term project
@@ -51,22 +60,22 @@ Develop your own research idea related to affective neuroscience. You can choose
 
 ## Schedule
 
-Week  | Topic | Video lecture | Reading 
-------| ----- | ----- | ----- 
-Week 1 (9/5) | What is affective neuroscience? | TED talks by two affective neuroscientists [Jaak Panksepp](https://www.youtube.com/watch?v=65e2qScV_K8) and [Lisa F. Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ) | PAN Ch3 
-Week 2 (9/12) | No class | 추석 | -
-Week 3 (9/19) | Basic emotion theories: From psychology to neuroscience | [Feeling All the Feels: Crash Course Psychology #25](https://www.youtube.com/watch?v=gAMbkJk6gnE) [Wendy Suzuki's Lecture on Emotion](https://www.youtube.com/watch?v=Bjray9ehcBU)| BSP Ch6, PAN Ch3 (again) 
-Week 4 (9/26) | Brain anatomy and affective brain systems | [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9) | PAN Ch4, Ch6, Price2012; Saper2002 
+Week  | Topic | Video lecture | Reading | Debate | Guest lecture
+------| ----- | ----- | ----- | ----- | -----
+Week 1 (9/5) | What is affective neuroscience? | TED talks by two affective neuroscientists [Jaak Panksepp](https://www.youtube.com/watch?v=65e2qScV_K8) and [Lisa F. Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ) | PAN Ch3 | - | -
+Week 2 (9/12) | No class | 추석 | - | - | -
+Week 3 (9/19) | Basic emotion theories: From psychology to neuroscience | [Feeling All the Feels: Crash Course Psychology #25](https://www.youtube.com/watch?v=gAMbkJk6gnE) [Wendy Suzuki's Lecture on Emotion](https://www.youtube.com/watch?v=Bjray9ehcBU)| BSP Ch6, PAN Ch3 (again) | - | -
+Week 4 (9/26) | Brain anatomy and affective brain systems | [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9) | PAN Ch4, Ch6, Price2012; Saper2002 | Debate 1: High road vs. Low road | - 
 Week 5 (10/3) | No class | 개천절 | - |
-Week 6 (10/10) | Pleasure, reward, desire | [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I) | TBA
-Week 7 (10/17) | Nociception and Pain | [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI)  | TBA
+Week 6 (10/10) | Pleasure, reward, desire | [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I) | TBA | - | -
+Week 7 (10/17) | Nociception and Pain | [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI)  | TBA | - | Jaejoong Lee
 Week 8 (10/24) | Mid-term |  - | - | -
-Week 9 (10/31)* | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | TBA
-Week 10 (11/7) | Self and self-regulation | | BSP Ch3
-Week 11 (11/14) | Emotion regulation, embodiment | |
-Week 12 (11/21) | Anxiety & Depression | |
-Week 13 (12/5) | Positive emotions | |
-Week 14 (12/12) | Empathy | |
+Week 9 (10/31)* | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | TBA | Debate 2: Pain processing system | -
+Week 10 (11/7) | Self and self-regulation | | BSP Ch3 | - | Suhwan Gim
+Week 11 (11/14) | Emotion regulation, embodiment | | - | - | Byeol Kim
+Week 12 (11/21) | Anxiety & Depression | -| - | Debate 3 | 
+Week 13 (12/5) | Positive emotions | | |- | Hongji Kim
+Week 14 (12/12) | Empathy | | - | - | Sooahn Lee
 Week 15 (12/19) | 기말고사 |
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
