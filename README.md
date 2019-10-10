@@ -65,15 +65,15 @@ Week  | Topic | Video lecture | Reading | Debate | Lecture or guest lecture
 Week 1 (9/5) | What is affective neuroscience? | TED talks by two affective neuroscientists [Jaak Panksepp](https://www.youtube.com/watch?v=65e2qScV_K8) and [Lisa F. Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ) | PAN Ch3 | - | Overview
 Week 2 (9/12) | No class | 추석 | - | - | -
 Week 3 (9/19) | Basic emotion theories: From psychology to neuroscience | [Feeling All the Feels: Crash Course Psychology #25](https://www.youtube.com/watch?v=gAMbkJk6gnE) [Wendy Suzuki's Lecture on Emotion](https://www.youtube.com/watch?v=Bjray9ehcBU)| BSP Ch6, PAN Ch3 (again) | - | Affective neuroscience in a digital age 01
-Week 4 (9/26) | Brain anatomy and affective brain systems | [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9) | PAN Ch4, Ch6, Price2012; Saper2002 | - | Affective neuroscience in a digital age 02
+Week 4 (9/26) | No class | 심포지엄 | - | - | -
 Week 5 (10/3) | No class | 개천절 | - |
-Week 6 (10/10) | Pleasure, reward, desire | [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I) | TBA | - | -
-Week 7 (10/17) | Nociception and Pain | [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI)  | TBA | - | Jaejoong Lee
+Week 6 (10/10) | Brain anatomy and affective brain systems | [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9) | PAN Ch4, Ch6, Price2012; Saper2002 | - | Brain anatomy and affective brain systems (1)
+Week 7 (10/17) | Nociception and Pain | [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI)  | Melzack 1999, Tracey 2010 | - | Jaejoong Lee
 Week 8 (10/24) | Mid-term |  - | - | -
-Week 9 (10/31)* | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | TBA | Debate 2: Pain processing system | -
-Week 10 (11/7) | Self and self-regulation | | BSP Ch3 | - | Suhwan Gim
-Week 11 (11/14) | Emotion regulation, embodiment | | - | - | Byeol Kim
-Week 12 (11/21) | Anxiety & Depression | -| - | Debate 3 | 
+Week 9 (10/31)* -> 11/5 | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | TBA | Debate 2: Pain processing system | -
+Week 10 (11/7) | Emotion regulation, embodiment | | - | - | Byeol Kim
+Week 11 (11/14) | Pleasure, reward, desire | [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I) | TBA | - | Suhwan Gim
+Week 12 (11/21) | Self and self-regulation  | -|  BSP Ch3 | Debate 3: Pleasure systems in the brain | 
 Week 13 (12/5) | Positive emotions | | |- | Hongji Kim
 Week 14 (12/12) | Empathy | | - | - | Sooahn Lee
 Week 15 (12/19) | 기말고사 |
