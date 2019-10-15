@@ -68,7 +68,7 @@ Week 3 (9/19) | Basic emotion theories: From psychology to neuroscience | [Feeli
 Week 4 (9/26) | No class | 심포지엄 | - | - | -
 Week 5 (10/3) | No class | 개천절 | - |
 Week 6 (10/10) | Brain anatomy and affective brain systems | [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9) | PAN Ch4, Ch6, Price2012; Saper2002 | - | Brain anatomy and affective brain systems (1)
-Week 7 (10/17) | Nociception and Pain | [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI)  | Melzack 1999, Tracey 2010 | - | Jaejoong Lee
+Week 7 (10/17) | Nociception and Pain | [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI)  | Melzack 1999, Tracey 2010 | - | Affective brain systems(2), Pain(1) <br> Guest: Jaejoong Lee
 Week 8 (10/24) | Mid-term |  - | - | -
 Week 9 (10/31)* -> 11/5 | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | TBA | Debate 2: Pain processing system | -
 Week 10 (11/7) | Emotion regulation, embodiment | | - | - | Byeol Kim
