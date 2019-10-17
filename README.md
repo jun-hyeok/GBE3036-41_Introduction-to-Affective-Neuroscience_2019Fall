@@ -70,7 +70,7 @@ Week 5 (10/3) | No class | 개천절 | - |
 Week 6 (10/10) | Brain anatomy and affective brain systems | [UBC Neuroanatomy Season 1](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9) | PAN Ch4, Ch6, Price2012; Saper2002 | - | Brain anatomy and affective brain systems (1)
 Week 7 (10/17) | Nociception and Pain | [Allan Basbaum](https://www.youtube.com/watch?v=-TN1r25wAoI)  | Melzack 1999, Tracey 2010 | - | Affective brain systems(2), Pain(1) <br> Guest: Jaejoong Lee
 Week 8 (10/24) | Mid-term |  - | - | -
-Week 9 (10/31)* -> 11/5 | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | TBA | Debate 2: Pain processing system | -
+Week 9 (10/31)* -> 11/5 | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | Lieberman 2015, Segerdahl 2015, Liang 2013, Salomon 2016 | Debate 1: Pain processing system | -
 Week 10 (11/7) | Emotion regulation, embodiment | | - | - | Byeol Kim
 Week 11 (11/14) | Pleasure, reward, desire | [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I) | TBA | - | Suhwan Gim
 Week 12 (11/21) | Self and self-regulation  | -|  BSP Ch3 | Debate 3: Pleasure systems in the brain | 
