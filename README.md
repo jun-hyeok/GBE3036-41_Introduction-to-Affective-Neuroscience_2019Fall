@@ -73,9 +73,9 @@ Week 8 (10/24) | Mid-term |  - | - | -
 Week 9 (10/31)* -> 11/5 | Pain regulation | Howard Fields on Placebo Effect [1](https://www.youtube.com/watch?v=oWPtIR-0Q_A) [2](https://www.youtube.com/watch?v=9idYxIAJj_g) [3](https://www.youtube.com/watch?v=s7hrYwFqrLU) [4](https://www.youtube.com/watch?v=J6fro1MU7bc) Fabrizio Benedetti's [talk](https://www.youtube.com/watch?v=ZHeF7rYz7uY) | Lieberman 2015, Segerdahl 2015, Liang 2013, Salomon 2016 | Debate 1: Pain processing system | -
 Week 10 (11/7) | Emotion regulation, embodiment | [James Gross](https://www.youtube.com/watch?v=mTW1qndYwX8) | Gross2011, Ashar2017 | - | Byeol Kim
 Week 11 (11/14) | Pleasure, reward, desire | [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I) | Berridge2019, Berridge2015 | - | Suhwan Gim
-Week 12 (11/21) | Self and self-regulation  | -|  BSP Ch3 | Debate 2: Pleasure systems in the brain | 
-Week 13 (12/5) | Positive emotions | | |- | Hongji Kim
-Week 14 (12/12) | Empathy | | - | - | Sooahn Lee
+Week 12 (11/21) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | Debate 2: Pleasure systems in the brain | 
+Week 13 (12/5) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 |- | Hongji Kim
+Week 14 (12/12) | Happiness, positive emotions | | Rutledge2014 | - | Sooahn Lee
 Week 15 (12/19) | 기말고사 |
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
@@ -140,6 +140,9 @@ Mark Leary: [The Self, Identity, and Removing the Mask](https://www.youtube.com/
 - Woo2015(E): Distinct brain systems mediate the effects of nociceptive input and self-regulation on pain, Plos Biol
 - Ashar2017(R): Brain Mechanisms of the Placebo Effect: An Affective Appraisal Account, Annual Review of Clinical Psychology
 - Berridge2019(R): Affective valence in the brain: modules or modes? Nature Reviews Neuroscience
+- Mobbs2019(R): Viewpoints: Approaches to defining and investigating fear. Nature Neuroscience
+- Kleckner2017(E): Evidence for a large-scale brain system supporting allostasis and interoception in humans. Nature Human Behaviour
+- Zaki2012(R): The neuroscience of empathy: progress, pitfalls and promise. Nature Neuroscience
 
 Further readings:
 
