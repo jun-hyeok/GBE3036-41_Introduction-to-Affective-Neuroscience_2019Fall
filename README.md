@@ -74,9 +74,10 @@ Week 9 (10/31)* -> 11/5 | Pain regulation | Howard Fields on Placebo Effect [1](
 Week 10 (11/7) | Emotion regulation, embodiment | [James Gross](https://www.youtube.com/watch?v=mTW1qndYwX8) | Gross2011, Ashar2017 | - | Byeol Kim
 Week 11 (11/14) | Pleasure, reward, desire | [Kent Berridge, Delight, Desire, and Dread: Generators in the Brain](https://www.youtube.com/watch?v=hrf8FlVoR_I) | Berridge2019, Berridge2015 | - | Suhwan Gim
 Week 12 (11/21) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | Debate 2: Pleasure systems in the brain | 
-Week 13 (12/5) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 |- | Hongji Kim
-Week 14 (12/12) | Happiness, positive emotions | | Rutledge2014 | - | Sooahn Lee
-Week 15 (12/19) | 기말고사 |
+Week 13 (11/28) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 |- | Hongji Kim
+Week 14 (12/5) | Take-home exam | - | - | - | -
+Week 15 (12/12) | Happiness, positive emotions | | Rutledge2014 | - | Sooahn Lee
+Week 16 (12/19) | 기말고사 |
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
 
