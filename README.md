@@ -76,7 +76,7 @@ Week 11 (11/14) | Pleasure, reward, desire | [Kent Berridge, Delight, Desire, an
 Week 12 (11/21) | Culture | [Antonio Damasio:The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Mobbs2019, Kleckner2017 | Debate 2: Pleasure systems in the brain | 
 Week 13 (11/28) | Social brain, empathy | [Ralph Adolphs:Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 |- | Hongji Kim
 Week 14 (12/5) | Take-home exam | - | - | - | -
-Week 15 (12/12) | Happiness, positive emotions | | Rutledge2014 | - | Sooahn Lee
+Week 15 (12/12) | Happiness, positive emotions | [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be) | Rutledge2014 | - | Sooahn Lee
 Week 16 (12/19) | 기말고사 |
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
